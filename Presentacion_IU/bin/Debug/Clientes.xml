@@ -1,0 +1,47 @@
+<clientes>
+<cliente codigo="7">
+<nombre>b</nombre>
+<apellido>b</apellido>
+<dni>7</dni>
+<mueble codigo="6" precio="33333" cantidad="3321">
+<descripcion>zzz</descripcion>
+<estado>Disponible</estado>
+<material codigo="33333">
+<nombre>zzzzzzzzzz</nombre>
+<color>zzzzzzzz</color>
+</material>
+<juegocompleto>true</juegocompleto>
+<tipo>Dormitorio</tipo>
+</mueble>
+</cliente>
+<cliente codigo="12">
+<nombre>Ultima</nombre>
+<apellido>Ultima</apellido>
+<dni>11223344</dni>
+<mueble codigo="30" precio="30" cantidad="27">
+<descripcion>Mueble Oficina</descripcion>
+<estado>Disponible</estado>
+<material codigo="30">
+<nombre>Mueble Oficina</nombre>
+<color>Mueble Oficina</color>
+</material>
+<estilo>Moderno</estilo>
+<tipo>Oficina</tipo>
+</mueble>
+</cliente>
+<cliente codigo="13">
+<nombre>Ultima Posta</nombre>
+<apellido>Ultima Posta</apellido>
+<dni>12457000</dni>
+<mueble codigo="3" precio="3" cantidad="1">
+<descripcion>Dormitorio</descripcion>
+<estado>Disponible</estado>
+<material codigo="0">
+<nombre>Maderita</nombre>
+<color>Maderita</color>
+</material>
+<juegocompleto>true</juegocompleto>
+<tipo>Dormitorio</tipo>
+</mueble>
+</cliente>
+</clientes>

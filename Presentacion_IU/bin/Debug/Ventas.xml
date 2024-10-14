@@ -1,0 +1,12 @@
+<ventas>
+<venta codigo="V010" clienteCodigo="7" muebleCodigo="6" cantidad="1" precio="33333">
+<descripcion>zzz</descripcion>
+</venta>
+<venta codigo="V011" clienteCodigo="12" muebleCodigo="30" cantidad="1" precio="30">
+<descripcion>Mueble Oficina</descripcion>
+</venta>
+<venta codigo="V012" clienteCodigo="13" muebleCodigo="3" cantidad="1" precio="3">
+<descripcion>Dormitorio</descripcion>
+</venta>
+</ventas>
+
