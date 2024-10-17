@@ -1,7 +1,5 @@
 # Sistema de Control de Ventas para Mueblería
 
-## Descripción
-
 Este proyecto es un sistema de información diseñado para una mueblería que busca gestionar promociones de muebles de oficina y dormitorio. La aplicación está implementada en C# y permite llevar un control detallado de los clientes y los muebles adquiridos.
 
 Los clientes pueden comprar un solo mueble, ya sea de oficina o de dormitorio, y recibir descuentos según el tipo de mueble: un 10% para muebles de oficina y un 25% para muebles de dormitorio. La información se almacena en archivos XML, incluyendo detalles sobre cada mueble, su estado y el material.
